@@ -1,10 +1,8 @@
-
 package main
 
 import "fmt"
 
 func main() {
-
 	// Reversing the string.
 	str := "Hello, OTUS!"
 
